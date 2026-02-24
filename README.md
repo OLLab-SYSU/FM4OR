@@ -12,7 +12,7 @@ Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided step-wise ac
 
 
 
-# Reference
+# References
 OPTFM: A scalable multi-view graph transformer for hierarchical pre-training in combinatorial optimization, NeurIPS 2025.
 
 A systematic survey on large language models for algorithm design, ACM Computing Surveys, 2026.
@@ -24,4 +24,6 @@ A survey of reasoning with foundation models: Concepts, methodilogies, and outlo
 HYPER: A foundation model for inductive link prediction with knowledge hypergraphs, ICLR 2026.
 
 G-Reasoner: Foundation models for unified reasoning over graph-structured knowledge, ICLR 2026.
+
+Graph foundation models: A comprehensive survey, 2025. (https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
 
