@@ -1,8 +1,14 @@
 # Foundation Models for Optimization and Reasoning
 
 ## Contents
+### Part I Introduction
+
+### Part II Foundation Models for Optimization
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
+- ......
+
+### Part III Foundation Models for Reasoning
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
 - Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
@@ -10,6 +16,8 @@
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026.
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided step-wise action planning for controllable reasoning, ACL 2026.
+
+- ......
 
 
 
