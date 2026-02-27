@@ -1,5 +1,6 @@
 # Foundation Models for Optimization and Reasoning
 
+## Contents
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
