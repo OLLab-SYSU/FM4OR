@@ -19,11 +19,11 @@
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, 2026.
 
-- A survey of reasoning with foundation models: Concepts, methodilogies, and outlook, ACM Computing Surveys, 2025.
+- A survey of reasoning with foundation models: Concepts, methodologies, and outlook, ACM Computing Surveys, 2025.
 
 - HYPER: A foundation model for inductive link prediction with knowledge hypergraphs, ICLR 2026.
 
 - G-Reasoner: Foundation models for unified reasoning over graph-structured knowledge, ICLR 2026.
 
-- Graph foundation models: A comprehensive survey, 2025. (https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
+- Graph foundation models: A comprehensive survey, 2025. <https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs>
 
