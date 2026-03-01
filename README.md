@@ -4,7 +4,7 @@
 ### Part I Introduction
 - Foundation Models for NLP, CV and Graph Learning
 
-- Killing Applications: Optimization and Reasoning
+- Killing Applications: Combinatorial Optimization and Reasoning on Graphs
 ### Part II Foundation Models for Optimization
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
@@ -23,12 +23,14 @@
 
 
 
-### References
+#### References
 - OPTFM: A scalable multi-view graph transformer for hierarchical pre-training in combinatorial optimization, NeurIPS 2025.
 
-- A systematic survey on large language models for algorithm design, ACM Computing Surveys, 2026.
+- A unified pre-training and adaptation framework for combinatorial optimization on graphs, Science China: Mathematics, 2024.
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, 2026.
+
+- G1: Teaching LLMs to reason on graphs with reinforcement learning, 2025.
 
 - A survey of reasoning with foundation models: Concepts, methodologies, and outlook, ACM Computing Surveys, 2025.
 
