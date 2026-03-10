@@ -5,9 +5,13 @@
 - Foundation Models for NLP, CV and Graph Learning
 
 - Killing Applications: Combinatorial Optimization and Reasoning on Graphs
-### Part II Foundation Models for Optimization
+### Part II Foundation Models for Combinatorial Optimization
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
+- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
+
+- Zhen Zou, Jiahai Wang*, A pre-training hypergraph Transformer for combinatorial optimization, 2026.
+  
 - ......
 
 ### Part III Foundation Models for Reasoning
