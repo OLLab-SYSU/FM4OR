@@ -46,3 +46,5 @@
 
 - Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
 
+- Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
+
