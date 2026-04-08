@@ -19,9 +19,9 @@
 
 - Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
 
-- Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026.
+- Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
-- Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided step-wise action planning for controllable reasoning, ACL 2026.
+- Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided step-wise action planning for controllable LLM reasoning, ACL 2026 Findings.
 
 - ......
 
