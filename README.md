@@ -32,7 +32,7 @@
 
 - A unified pre-training and adaptation framework for combinatorial optimization on graphs, Science China: Mathematics, 2024.
 
-- Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, 2026.
+- Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
 
