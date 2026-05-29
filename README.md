@@ -14,7 +14,7 @@
   
 - PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
-- Reinforcement learniing enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
+- Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
   
 ### Part III Foundation Models for Reasoning
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
