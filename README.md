@@ -12,8 +12,10 @@
 
 - Zhen Zou, Jiahai Wang*, A pre-training hypergraph Transformer for combinatorial optimization, 2026.
   
-- ......
+- PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
+- Reinforcement learniing enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
+  
 ### Part III Foundation Models for Reasoning
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
@@ -23,7 +25,9 @@
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided stepwise action planning for controllable LLM reasoning, ACL 2026 Findings.
 
-- ......
+- Dynamic latent planning inside graph retrievers for knowledge graph question answering, EMNLP 2026.
+
+- Guide to verify: From graph-guided generation to external verfication for multi-constraint multi-hop question generation, EMNLP 2026.
 
 
 
