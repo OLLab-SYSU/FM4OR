@@ -27,7 +27,7 @@
 
 - Dynamic latent planning inside graph retrievers for knowledge graph question answering, EMNLP 2026.
 
-- Guide to verify: From graph-guided generation to external verfication for multi-constraint multi-hop question generation, EMNLP 2026.
+- Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, EMNLP 2026.
 
 
 
