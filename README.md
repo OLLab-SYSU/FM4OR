@@ -36,6 +36,8 @@
 
 - A unified pre-training and adaptation framework for combinatorial optimization on graphs, Science China: Mathematics, 2024.
 
+- Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
+
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
 - A unified framework for combinatorial optimization based on graph neural networks, Engineering, 2026.
