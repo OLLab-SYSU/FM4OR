@@ -38,6 +38,8 @@
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
+- A unified framework for combinatorial optimization based on graph neural networks, Engineering, 2026.
+
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
 
 - A survey of reasoning with foundation models: Concepts, methodologies, and outlook, ACM Computing Surveys, 2025.
