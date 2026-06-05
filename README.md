@@ -29,7 +29,7 @@
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, EMNLP 2026.
 
-
+### Part IV Conclusions and Future Work
 
 #### References
 - OPTFM: A scalable multi-view graph transformer for hierarchical pre-training in combinatorial optimization, NeurIPS 2025.
@@ -57,4 +57,6 @@
 - Foundation agents as the paradigm shift for decision making, ICML 2024.
 
 - Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
+
+- A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve on the Path to Artificial Super Intelligence, Transactions on Machine Learning Research, 2026.
 
