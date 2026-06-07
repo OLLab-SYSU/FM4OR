@@ -31,6 +31,10 @@
 
 ### Part IV Conclusions and Future Work
 
+- Self-evolving agents for Optimization and Reasoning
+
+
+
 #### References
 - OPTFM: A scalable multi-view graph transformer for hierarchical pre-training in combinatorial optimization, NeurIPS 2025.
 
