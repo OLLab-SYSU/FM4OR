@@ -2,7 +2,7 @@
 
 ## Contents
 ### Part I Introduction
-- Foundation Models for NLP, CV and Graph Learning
+- Foundation Models：From Scaling, Reasoning to Agent
 
 - Killing Applications: Combinatorial Optimization and Reasoning on Graphs
 ### Part II Foundation Models for Combinatorial Optimization
@@ -31,7 +31,7 @@
 
 ### Part IV Conclusions and Future Work
 
-- Self-evolving agents for Optimization and Reasoning
+- Self-evolving Agents for Optimization and Reasoning
 
 
 
