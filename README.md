@@ -2,7 +2,7 @@
 
 ## Contents
 ### Part I Introduction
-- Foundation Models: From Scaling, Reasoning to Agent
+- Foundation Models: From Scaling, Reasoning to Agentic
 
 - Killing Applications: Combinatorial Optimization and Reasoning on Graphs
 ### Part II Foundation Models for Combinatorial Optimization
