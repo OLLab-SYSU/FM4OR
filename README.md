@@ -64,3 +64,5 @@
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
 
+- Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering, 2026.
+
