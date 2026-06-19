@@ -40,13 +40,17 @@
 
 - A unified pre-training and adaptation framework for combinatorial optimization on graphs, Science China: Mathematics, 2024.
 
+- A unified framework for combinatorial optimization based on graph neural networks, Engineering, 2026.
+
 - Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
-- A unified framework for combinatorial optimization based on graph neural networks, Engineering, 2026.
-
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
+
+- Reasoning language models: A blueprint, 2025.
+
+- Towards a mechanistic understanding of large reasoning models: A survey of training, inference, and failures, 2026.
 
 - A survey of reasoning with foundation models: Concepts, methodologies, and outlook, ACM Computing Surveys, 2025.
 
