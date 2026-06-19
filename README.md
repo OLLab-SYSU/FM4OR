@@ -42,11 +42,15 @@
 
 - A unified framework for combinatorial optimization based on graph neural networks, Engineering, 2026.
 
+- Vision-assisted foundation model for solving multi-task vehicle routing problems, IEEE Transactions on Neural Networks and Learning Systems, 2026.
+
 - Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
+
+- Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
 
 - Reasoning language models: A blueprint, 2025.
 
