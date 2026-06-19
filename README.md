@@ -40,9 +40,9 @@
 
 - A unified pre-training and adaptation framework for combinatorial optimization on graphs, Science China: Mathematics, 2024.
 
-- A unified framework for combinatorial optimization based on graph neural networks, Engineering, 2026.
-
 - Vision-assisted foundation model for solving multi-task vehicle routing problems, IEEE Transactions on Neural Networks and Learning Systems, 2026.
+
+- A unified framework for combinatorial optimization based on graph neural networks, Engineering, 2026.
 
 - Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
 
@@ -58,7 +58,7 @@
 
 - A survey of reasoning with foundation models: Concepts, methodologies, and outlook, ACM Computing Surveys, 2025.
 
-- The periodic table of LLM reasoning: a structured survey of reasoning paradigms, methods, and failure modes, 2026
+- The periodic table of LLM reasoning: a structured survey of reasoning paradigms, methods, and failure modes, 2026.
 
 - HYPER: A foundation model for inductive link prediction with knowledge hypergraphs, ICLR 2026.
 
