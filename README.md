@@ -50,6 +50,8 @@
 
 - A survey of reasoning with foundation models: Concepts, methodologies, and outlook, ACM Computing Surveys, 2025.
 
+- The periodic table of LLM reasoning: a structured survey of reasoning paradigms, methods, and failure modes, 2026
+
 - HYPER: A foundation model for inductive link prediction with knowledge hypergraphs, ICLR 2026.
 
 - G-Reasoner: Foundation models for unified reasoning over graph-structured knowledge, ICLR 2026.
@@ -64,5 +66,5 @@
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
 
-- Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering, 2026.
+- Externalization in LLM agents: A unified review of memory, skills, protocols and harness engineering, 2026.
 
