@@ -29,6 +29,8 @@
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, EMNLP 2026.
 
+- Lightweight graph construction with graph foundation model reranking for long-term memory QA, AAAI 2026.
+
 ### Part IV Conclusions and Future Work
 
 - Self-evolving Agents for Optimization and Reasoning
@@ -47,6 +49,8 @@
 - Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
+
+- OPT-Engine: Benchmarking the limits of LLMs in optimization modeling via complexity scaling, ICML 2026.
 
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
 
