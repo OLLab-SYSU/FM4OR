@@ -70,6 +70,8 @@
 
 - Graph foundation models: A comprehensive survey, 2025. <https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs>
 
+- Graphs meet AI agents: Taxonomy, progress, and future opportunities, 2025.
+
 - Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
 
 - Foundation agents as the paradigm shift for decision making, ICML 2024.
