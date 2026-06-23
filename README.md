@@ -56,7 +56,7 @@
 
 - Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
 
-- Reasoning language models: A blueprint, 2025.
+- From system 1 to system 2: a survey of reasoning large language models, IEEE TPAMI, 2026.
 
 - Towards a mechanistic understanding of large reasoning models: A survey of training, inference, and failures, 2026.
 
