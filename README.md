@@ -10,11 +10,13 @@
 
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
 
-- Zhen Zou, Jiahai Wang*, A pre-training hypergraph Transformer for combinatorial optimization, 2026.
+- Large language models for constrained combinatorial optimization, AAAI 2026.
   
 - PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
 - Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
+
+- A pre-training hypergraph Transformer for combinatorial optimization, 2026.
   
 ### Part III Foundation Models for Reasoning
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
@@ -29,7 +31,7 @@
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, EMNLP 2026.
 
-- Lightweight graph construction with graph foundation model reranking for long-term memory QA, AAAI 2026.
+- LLM with graph memory for long-term memory question answering, AAAI 2026.
 
 ### Part IV Conclusions and Future Work
 
@@ -68,7 +70,7 @@
 
 - G-Reasoner: Foundation models for unified reasoning over graph-structured knowledge, ICLR 2026.
 
-- Graph foundation models: A comprehensive survey, 2025. <https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs>
+- Graph foundation models: A comprehensive survey, 2025. [GFM](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
 
 - Graphs meet AI agents: Taxonomy, progress, and future opportunities, 2025.
 
