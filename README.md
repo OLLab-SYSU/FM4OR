@@ -8,6 +8,8 @@
 ### Part II Foundation Models for Combinatorial Optimization
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
+- A pre-training hypergraph Transformer for combinatorial optimization, 2026.
+
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
 
 - Large language models for constrained combinatorial optimization, AAAI 2026.
@@ -15,8 +17,6 @@
 - PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
 - Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
-
-- A pre-training hypergraph Transformer for combinatorial optimization, 2026.
   
 ### Part III Foundation Models for Reasoning
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
@@ -36,7 +36,6 @@
 ### Part IV Conclusions and Future Work
 
 - Self-evolving Agents for Optimization and Reasoning
-
 
 
 #### References
@@ -80,7 +79,9 @@
 
 - Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
 
-- A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
-
 - Externalization in LLM agents: A unified review of memory, skills, protocols and harness engineering, 2026.
+
+- From question answering to task completion: A survey on agent system and harness design, 2026.
+
+- A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
 
