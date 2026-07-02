@@ -85,3 +85,8 @@
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
 
+- From soliloquy to agora: Memeory-enhanced LLM agents with decentralized debate for optimization modelling, 2026.
+
+- AHD agent: Agent reinforcement learniing for automatic heuristic design, 2026.
+
+
