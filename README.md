@@ -34,7 +34,7 @@
 
 - LLM with graph memory for long-term memory question answering, AAAI 2026.
 
-### Part IV Towards Autonomous Intelligence Agents for Optimization and Reasoning
+### Part IV Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
 - From Self-evolving Agents to Next-generation Agentic Intelligence
 
