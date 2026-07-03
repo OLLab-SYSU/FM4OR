@@ -5,6 +5,7 @@
 - Foundation Models: From Scaling, Reasoning to Agentic
 
 - Killing Applications: Combinatorial Optimization and Reasoning on Graphs
+- 
 ### Part II Foundation Models for Combinatorial Optimization
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
@@ -33,9 +34,9 @@
 
 - LLM with graph memory for long-term memory question answering, AAAI 2026.
 
-### Part IV Towards Self-evolving Agents for Optimization and Reasoning
+### Part IV Towards Autonomous Intelligence Agents for Optimization and Reasoning
 
-- Self-evolving Agents 
+- From Self-evolving Agents to Next-generation Agentic Intelligence
 
 
 #### References
