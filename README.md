@@ -53,6 +53,12 @@
 
 - OPT-Engine: Benchmarking the limits of LLMs in optimization modeling via complexity scaling, ICML 2026.
 
+- From soliloquy to agora: Memeory-enhanced LLM agents with decentralized debate for optimization modelling, 2026.
+
+- AHD agent: Agent reinforcement learniing for automatic heuristic design, 2026.
+
+----------------------------------------------------------
+
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
 
 - Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
@@ -83,10 +89,10 @@
 
 - From question answering to task completion: A survey on agent system and harness design, 2026.
 
+----------------------------------------------------------
+
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
 
-- From soliloquy to agora: Memeory-enhanced LLM agents with decentralized debate for optimization modelling, 2026.
 
-- AHD agent: Agent reinforcement learniing for automatic heuristic design, 2026.
 
 
