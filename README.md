@@ -33,9 +33,9 @@
 
 - LLM with graph memory for long-term memory question answering, AAAI 2026.
 
-### Part IV Conclusions and Future Work
+### Part IV Towards Self-evolving Agents for Optimization and Reasoning
 
-- Self-evolving Agents for Optimization and Reasoning
+- Self-evolving Agents 
 
 
 #### References
