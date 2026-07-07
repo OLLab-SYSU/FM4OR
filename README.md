@@ -56,7 +56,7 @@
 
 - From soliloquy to agora: Memeory-enhanced LLM agents with decentralized debate for optimization modelling, 2026.
 
-- AHD agent: Agent reinforcement learniing for automatic heuristic design, 2026.
+- AHD agent: Agentic reinforcement learning for automatic heuristic design, 2026.
 
 ----------------------------------------------------------
 
