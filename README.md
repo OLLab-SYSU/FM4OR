@@ -46,7 +46,7 @@
 
 - Vision-assisted foundation model for solving multi-task vehicle routing problems, IEEE Transactions on Neural Networks and Learning Systems, 2026.
 
-- A unified framework for combinatorial optimization based on graph neural networks, Engineering, 2026.
+- Vehicle routing problem meets large language models: an overview and perspectives, 2026.
 
 - Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
 
