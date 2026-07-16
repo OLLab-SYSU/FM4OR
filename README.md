@@ -84,7 +84,10 @@
 
 - Foundation agents as the paradigm shift for decision making, ICML 2024.
 
+- Agentic reasoning for large language models, 2026.
+
 ----------------------------------------------------------
+- From AGI to ASI, 2026.
 
 - Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
 
@@ -93,6 +96,8 @@
 - From question answering to task completion: A survey on agent system and harness design, 2026.
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
+
+- The landscape of agentic reinforcement learning for LLMs: A survey, Transactions on Machine Learning Research, 2026.
 
 
 
