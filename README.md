@@ -13,11 +13,11 @@
 
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
 
-- Large language models for constrained combinatorial optimization, AAAI 2026.
+- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility prior to optimality: Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2026.
   
-- PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
+- Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
-- Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
+- Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
   
 ### Part III Foundation Models for Reasoning
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
@@ -43,9 +43,13 @@
 
 - A survey on mathematical reasoning and optimization with large language models，2025.
 
-- Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
-----------------------------------------------------------
+- G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
 
+- Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
+
+- Foundation agents as the paradigm shift for decision making, ICML 2024.
+
+----------------------------------------------------------
 - OPTFM: A scalable multi-view graph transformer for hierarchical pre-training in combinatorial optimization, NeurIPS 2025.
 
 - A unified pre-training and adaptation framework for combinatorial optimization on graphs, Science China: Mathematics, 2024.
@@ -65,9 +69,6 @@
 - AHD agent: Agentic reinforcement learning for automatic heuristic design, 2026.
 
 ----------------------------------------------------------
-
-- G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
-
 - Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
 
 - From system 1 to system 2: a survey of reasoning large language models, IEEE TPAMI, 2026.
@@ -85,8 +86,6 @@
 - Graph foundation models: A comprehensive survey, 2025. [GFM](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)
 
 - Graphs meet AI agents: Taxonomy, progress, and future opportunities, 2025.
-
-- Foundation agents as the paradigm shift for decision making, ICML 2024.
 
 - Agentic reasoning for large language models, 2026.
 
