@@ -40,6 +40,10 @@
 
 
 #### References
+
+- A survey on mathematical reasoning and optimization with large language models，2025.
+----------------------------------------------------------
+
 - OPTFM: A scalable multi-view graph transformer for hierarchical pre-training in combinatorial optimization, NeurIPS 2025.
 
 - A unified pre-training and adaptation framework for combinatorial optimization on graphs, Science China: Mathematics, 2024.
