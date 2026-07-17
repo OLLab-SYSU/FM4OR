@@ -13,7 +13,7 @@
 
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
 
-- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility prior to optimality: Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2026.
+- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2026.
   
 - Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
