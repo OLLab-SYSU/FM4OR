@@ -13,7 +13,7 @@
 
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
 
-- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2026.
+- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2027.
   
 - Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
@@ -43,6 +43,10 @@
 
 - A survey on mathematical reasoning and optimization with large language models，2025.
 
+- DeepOR: A deep reasoning foundation model for optimization modeling，AAAI 2026.
+
+- Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
+
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
 
 - Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
@@ -59,8 +63,6 @@
 - Vehicle routing problem meets large language models: an overview and perspectives, 2026.
 
 - Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
-
-- Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
 - OPT-Engine: Benchmarking the limits of LLMs in optimization modeling via complexity scaling, ICML 2026.
 
