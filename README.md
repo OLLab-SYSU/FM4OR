@@ -2,9 +2,9 @@
 
 ## Contents
 ### Part I Introduction
-- Foundation Models: From Scaling, Reasoning to Agentic
+#### 1.1 Foundation Models: From Scaling, Reasoning to Agentic
 
-- Killing Applications: Combinatorial Optimization and Reasoning on Graphs
+#### 1.2 Combinatorial Optimization and Reasoning: Killing Applications
 
 ### Part II Foundation Models for Combinatorial Optimization
 #### 2.1 Domain Foundation Models for COPs
@@ -42,7 +42,9 @@
 
 ### Part IV Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
-- From Self-evolving Agents to Next-generation Agentic Intelligence
+#### 4.1 Conclusions
+
+#### 4.2 Future Work: From Self-evolving Agents to Next-generation Agentic Intelligence
 
 
 #### References
