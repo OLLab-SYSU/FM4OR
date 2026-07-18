@@ -76,6 +76,8 @@
 
 - AHD agent: Agentic reinforcement learning for automatic heuristic design, 2026.
 
+- Effective harness engineering for algorithm discrovery with coding agents, ICML 2026 Workshop.
+
 ----------------------------------------------------------
 - Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
 
