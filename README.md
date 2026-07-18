@@ -7,26 +7,32 @@
 - Killing Applications: Combinatorial Optimization and Reasoning on Graphs
 
 ### Part II Foundation Models for Combinatorial Optimization
+#### 2.1 Domain Foundation Models for COPs
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
 - A pre-training hypergraph Transformer for combinatorial optimization, 2026.
 
-- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
+#### 2.2 LLM as Modeller
+- Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
 
-- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2027.
-  
+#### 2.3 LLM as Designer (Automated Heuristic Design and End-to-End Route Reasoning)
 - Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
-- Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
+- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2027.
+
+#### 2.4 LLM as Coordinators
+- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
   
 ### Part III Foundation Models for Reasoning
+#### 3.1 Internal Strategic/Policy Control
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
 - Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
 
-- Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
-
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided stepwise action planning for controllable LLM reasoning, ACL 2026 Findings.
+
+#### 3.2 External Knowledge Graph Augmentation
+- Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
 - Dynamic latent planning inside graph retrievers for knowledge graph question answering, EMNLP 2026.
 
