@@ -12,26 +12,26 @@
 
 - A pre-training hypergraph Transformer for combinatorial optimization, 2026.
 
-#### 2.2 LLM as Modeller
+#### 2.2 LLM as Modeller for Problem Modeling
 - Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
 
-#### 2.3 LLM as Designer (Automated Heuristic Design and End-to-End Route Reasoning)
+#### 2.3 LLM as Designer for Heuristic Design and End-to-End Solution Reasoning
 - Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2027.
 
-#### 2.4 LLM as Coordinators
+#### 2.4 LLM as Coordinators for Solving-workflow Organization
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
   
 ### Part III Foundation Models for Reasoning
-#### 3.1 Internal Strategic/Policy Control
+#### 3.1 Internal Strategic/Policy Control for Reasoning
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
 - Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided stepwise action planning for controllable LLM reasoning, ACL 2026 Findings.
 
-#### 3.2 External Knowledge Graph Augmentation
+#### 3.2 External Knowledge Graph Augmentation for Reasoning
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
 - Dynamic latent planning inside graph retrievers for knowledge graph question answering, EMNLP 2026.
@@ -48,18 +48,21 @@
 
 
 #### References
+- Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
+
+- Foundation agents as the paradigm shift for decision making, ICML 2024.
+
+- Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
 
 - A survey on mathematical reasoning and optimization with large language models，2025.
 
 - DeepOR: A deep reasoning foundation model for optimization modeling，AAAI 2026.
 
+- Evaluating LLM reasoning in the operations research domain with ORQA, AAAI 2025.
+
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
 
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
-
-- Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
-
-- Foundation agents as the paradigm shift for decision making, ICML 2024.
 
 ----------------------------------------------------------
 - OPTFM: A scalable multi-view graph transformer for hierarchical pre-training in combinatorial optimization, NeurIPS 2025.
@@ -103,8 +106,6 @@
 
 ----------------------------------------------------------
 - From AGI to ASI, 2026.
-
-- Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
 
 - Externalization in LLM agents: A unified review of memory, skills, protocols and harness engineering, 2026.
 
