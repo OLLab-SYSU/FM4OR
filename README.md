@@ -52,6 +52,10 @@
 
 - Foundation agents as the paradigm shift for decision making, ICML 2024.
 
+- From question answering to task completion: A survey on agent system and harness design, 2026.
+
+- Externalization in LLM agents: A unified review of memory, skills, protocols and harness engineering, 2026.
+
 - Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
 
 - A survey on mathematical reasoning and optimization with large language models，2025.
@@ -108,10 +112,6 @@
 
 ----------------------------------------------------------
 - From AGI to ASI, 2026.
-
-- Externalization in LLM agents: A unified review of memory, skills, protocols and harness engineering, 2026.
-
-- From question answering to task completion: A survey on agent system and harness design, 2026.
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
 
