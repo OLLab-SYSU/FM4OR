@@ -104,6 +104,8 @@
 
 - Agentic reasoning for large language models, 2026.
 
+- SE-Agent: Self-evolution trajectory optimization in multi-step reasoning with LLM-based agents, 2025.
+
 ----------------------------------------------------------
 - From AGI to ASI, 2026.
 
