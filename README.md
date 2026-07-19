@@ -4,7 +4,7 @@
 ### Part I Introduction
 #### 1.1 Foundation Models: From Scaling, Reasoning to Agentic
 
-#### 1.2 Combinatorial Optimization and Reasoning: Killing Applications
+#### 1.2 Combinatorial Optimization and Reasoning: Killing Applications and Their Relationship
 
 ### Part II Foundation Models for Combinatorial Optimization
 #### 2.1 Domain Foundation Models for COPs
