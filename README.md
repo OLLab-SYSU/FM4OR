@@ -115,7 +115,7 @@
 
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
 
-- Self-Evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification， 2026.
+- Self-Evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026.
 
 - The landscape of agentic reinforcement learning for LLMs: A survey, Transactions on Machine Learning Research, 2026.
 
