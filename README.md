@@ -69,15 +69,15 @@
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
 
 ----------------------------------------------------------
+- Vehicle routing problem meets large language models: an overview and perspectives, 2026.
+
+- Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
+
 - OPTFM: A scalable multi-view graph transformer for hierarchical pre-training in combinatorial optimization, NeurIPS 2025.
 
 - A unified pre-training and adaptation framework for combinatorial optimization on graphs, Science China: Mathematics, 2024.
 
 - Vision-assisted foundation model for solving multi-task vehicle routing problems, IEEE Transactions on Neural Networks and Learning Systems, 2026.
-
-- Vehicle routing problem meets large language models: an overview and perspectives, 2026.
-
-- Large language models for combinatorial optimization: a systematic review, ACM Computing Surveys, 2026.
 
 - OPT-Engine: Benchmarking the limits of LLMs in optimization modeling via complexity scaling, ICML 2026.
 
@@ -88,13 +88,13 @@
 - Effective harness engineering for algorithm discrovery with coding agents, ICML 2026 Workshop.
 
 ----------------------------------------------------------
+- A survey of reasoning with foundation models: Concepts, methodologies, and outlook, ACM Computing Surveys, 2025.
+
 - Toward large reasoning models: A survey of reinforced reasoning with large language models, Patterns, 2025.
 
 - From system 1 to system 2: a survey of reasoning large language models, IEEE TPAMI, 2026.
 
 - Towards a mechanistic understanding of large reasoning models: A survey of training, inference, and failures, 2026.
-
-- A survey of reasoning with foundation models: Concepts, methodologies, and outlook, ACM Computing Surveys, 2025.
 
 - The periodic table of LLM reasoning: a structured survey of reasoning paradigms, methods, and failure modes, 2026.
 
