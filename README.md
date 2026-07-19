@@ -42,7 +42,7 @@
 
 ### Part IV Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
-#### 4.1 Conclusions
+#### 4.1 Self-evolving Agents for Optimization and Reasoning
 
 #### 4.2 Future Work: From Self-evolving Agents to Next-generation Agentic Intelligence
 
