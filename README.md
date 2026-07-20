@@ -6,6 +6,8 @@
 
 #### 1.2 Combinatorial Optimization and Reasoning: Killing Applications and Their Relationship
 
+#### 1.3 Advances in Combinatorial Optimization and Reasoning
+
 ### Part II Foundation Models for Combinatorial Optimization
 #### 2.1 Domain Foundation Models for COPs
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
@@ -42,7 +44,7 @@
 
 ### Part IV Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
-#### 4.1 Self-evolving Agents for Optimization and Reasoning
+#### 4.1 Summary: Self-evolving Agents for Optimization and Reasoning
 
 #### 4.2 Future Work: From Self-evolving Agents to Next-generation Agentic Intelligence
 
@@ -108,7 +110,7 @@
 
 - Agentic reasoning for large language models, 2026.
 
-- SE-Agent: Self-evolution trajectory optimization in multi-step reasoning with LLM-based agents, 2025.
+- SE-Agent: Self-evolution trajectory optimization in multi-step reasoning with LLM-based agents, NeurIPS 2025.
 
 ----------------------------------------------------------
 - From AGI to ASI, 2026.
