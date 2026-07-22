@@ -20,7 +20,7 @@
 #### 2.3 LLM as Designer for Heuristic Design and End-to-End Solution Reasoning
 - Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
-- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM combinatorial optimization solvers, AAAI 2027.
+- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM based combinatorial optimization, AAAI 2027.
 
 #### 2.4 LLM as Coordinators for Solving-workflow Organization
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
@@ -40,7 +40,7 @@
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, EMNLP 2026.
 
-- LLM with graph memory for long-term memory question answering, AAAI 2026.
+- LLM with graph memory for long-term memory question answering, AAAI 2027.
 
 ### Part IV Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
