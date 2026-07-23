@@ -112,6 +112,8 @@
 
 - Agentic reasoning for large language models, 2026.
 
+- Synergizing RAG and reasoning: A systematic review, 2025.
+
 - SE-Agent: Self-evolution trajectory optimization in multi-step reasoning with LLM-based agents, NeurIPS 2025.
 
 ----------------------------------------------------------
