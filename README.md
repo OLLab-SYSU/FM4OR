@@ -40,6 +40,8 @@
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, EMNLP 2026.
 
+- UniGain: Unified text representation with modality gain for multimodol multi-hop question generation, 2026.
+
 - LLM with graph memory for long-term memory question answering, AAAI 2027.
 
 ### Part IV Towards Autonomous Intelligent Agents for Optimization and Reasoning
