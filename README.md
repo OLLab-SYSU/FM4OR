@@ -14,7 +14,7 @@
 
 - A pre-training hypergraph Transformer for combinatorial optimization, 2026.
 
-#### 2.2 LLM as Modeller for Problem Modeling
+#### 2.2 LLM as Modeler for Problem Modeling
 - Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
 
 #### 2.3 LLM as Designer for Heuristic Design and End-to-End Solution Reasoning
