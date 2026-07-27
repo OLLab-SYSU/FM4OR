@@ -33,7 +33,7 @@
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided stepwise action planning for controllable LLM reasoning, ACL 2026 Findings.
 
-#### 3.2 External Knowledge Graph Augmentation for Reasoning
+#### 3.2 External Knowledge Graph Augmentation for Reasoning (Neural-Symbolic Reasoning)
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
 - Dynamic latent planning inside graph retrievers for knowledge graph question answering, EMNLP 2026.
@@ -42,6 +42,7 @@
 
 - UniGain: Unified text representation with modality gain for multimodol multi-hop question generation, 2026.
 
+#### 3.3 Memory-Augmented Reasoning (Agentic Reasoning)
 - LLM with graph memory for long-term memory question answering, AAAI 2027.
 
 ### Part IV Towards Autonomous Intelligent Agents for Optimization and Reasoning
