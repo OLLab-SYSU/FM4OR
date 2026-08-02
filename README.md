@@ -2,7 +2,7 @@
 
 ## Contents
 ### Part I Introduction
-#### 1.1 Foundation Models: From Scaling, Reasoning to Agentic
+#### 1.1 Foundation Models: From Scaling, Reasoning to Agentic AI
 
 #### 1.2 Combinatorial Optimization and Reasoning: Killing Applications and Their Relationship
 
@@ -26,7 +26,7 @@
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
   
 ### Part III Foundation Models for Reasoning
-#### 3.1 Internal Strategic/Policy Control for Reasoning
+#### 3.1 Internal Strategic/Policy Control for Reasoning (LLM Reasoning)
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
 - Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
@@ -40,14 +40,15 @@
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, EMNLP 2026.
 
-- UniGain: Unified text representation with modality gain for multimodol multi-hop question generation, 2026.
-
 #### 3.3 Memory-Augmented Reasoning (Agentic Reasoning)
 - LLM with graph memory for long-term memory question answering, AAAI 2027.
 
+#### 3.4 Mutimodal Reasoning
+- UniGain: Unified text representation with modality gain for multimodal multi-hop question answering, AAAI 2027.
+
 ### Part IV Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
-#### 4.1 Summary: Self-evolving Agents for Optimization and Reasoning
+#### 4.1 Summary: From the Perspective of Self-evolving Agent
 
 #### 4.2 Future Work: From Self-evolving Agents to Next-generation Agentic Intelligence
 
