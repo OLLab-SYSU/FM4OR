@@ -129,7 +129,9 @@
 
 
 
-#### Resources: [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) [FM4ReasonRes](https://github.com/OLLab-SYSU/FM4ReasonRes)
+#### Resources: 
+- Foundation Models for Optimization [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) 
+- Foundation Models for Reasoning [FM4ReasonRes](https://github.com/OLLab-SYSU/FM4ReasonRes)
 
 
 
