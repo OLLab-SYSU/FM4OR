@@ -38,7 +38,9 @@
 
 - Dynamic latent planning inside graph retrievers for knowledge graph question answering, EMNLP 2026.
 
-- Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, EMNLP 2026.
+- DGT: Efficient and reliable konwledge graph question answering via discriminative graph traversal, WISE 2026.
+
+- Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, AAAI 2027.
 
 #### 3.3 Memory-Augmented Reasoning (Agentic Reasoning)
 - LLM with graph memory for long-term memory question answering, AAAI 2027.
@@ -130,7 +132,7 @@
 
 
 #### Resources: 
-- Foundation Models for Optimization [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) 
+- Foundation Models for Combinatorial Optimization [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) 
 - Foundation Models for Reasoning [FM4ReasonRes](https://github.com/OLLab-SYSU/FM4ReasonRes)
 
 
