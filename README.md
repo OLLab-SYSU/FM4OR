@@ -38,7 +38,7 @@
 
 - Dynamic latent planning inside graph retrievers for knowledge graph question answering, EMNLP 2026.
 
-- DGT: Efficient and reliable konwledge graph question answering via discriminative graph traversal, WISE 2026.
+- DGT: Efficient and reliable knowledge graph question answering via discriminative graph traversal, WISE 2026.
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, AAAI 2027.
 
