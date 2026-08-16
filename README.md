@@ -4,7 +4,7 @@
 ### Part I Introduction
 #### 1.1 Foundation Models: From Scaling, Reasoning to Agentic AI
 
-#### 1.2 Combinatorial Optimization and Reasoning: Killing Applications and Their Relationship
+#### 1.2  Bridging Reasoning and Combinatorial Optimization with Foundation Models 
 
 #### 1.3 Advances in Combinatorial Optimization and Reasoning
 
