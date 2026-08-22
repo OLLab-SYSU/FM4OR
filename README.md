@@ -4,15 +4,15 @@
 ### Part I Introduction
 #### 1.1 Foundation Models: From Scaling, Reasoning to Agentic AI
 
-#### 1.2  Bridging Reasoning and Combinatorial Optimization with Foundation Models 
+#### 1.2 Advances in Combinatorial Optimization
 
-#### 1.3 Advances in Combinatorial Optimization and Reasoning
+#### 1.2 Advances in Reasoning
+
+#### 1.4 Bridging Combinatorial Optimization and Reasoning with Foundation Models 
 
 ### Part II Foundation Models for Combinatorial Optimization
 #### 2.1 Domain Foundation Models for COPs
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
-
-- A pre-training hypergraph Transformer for combinatorial optimization, 2026.
 
 #### 2.2 LLM as Modeler for Problem Modeling
 - Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
@@ -36,14 +36,16 @@
 #### 3.2 External Knowledge Graph Augmentation for Reasoning (Neural-Symbolic Reasoning)
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
-- Dynamic latent planning inside graph retrievers for knowledge graph question answering, EMNLP 2026.
+- Dynamic latent planning inside graph retrievers for knowledge graph question answering, COLING 2027.
 
 - DGT: Efficient and reliable knowledge graph question answering via discriminative graph traversal, WISE 2026.
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, AAAI 2027.
 
 #### 3.3 Memory-Augmented Reasoning (Agentic Reasoning)
-- LLM with graph memory for long-term memory question answering, AAAI 2027.
+- A LLM-based agent framework for knowledge graph question answering, COLING 2027.
+
+- LLM with graph memory for long-term memory question answering, COLING 2027.
 
 #### 3.4 Mutimodal Reasoning
 - UniGain: Unified text representation with modality gain for multimodal multi-hop question answering, AAAI 2027.
