@@ -6,7 +6,7 @@
 
 #### 1.2 Advances in Combinatorial Optimization
 
-#### 1.2 Advances in Reasoning
+#### 1.3 Advances in Reasoning
 
 #### 1.4 Bridging Combinatorial Optimization and Reasoning with Foundation Models 
 
