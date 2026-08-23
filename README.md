@@ -50,7 +50,7 @@
 #### 8 Mutimodal Reasoning
 - UniGain: Unified text representation with modality gain for multimodal multi-hop question answering, AAAI 2027.
 
-### 9 Conclusion: Towards Autonomous Intelligent Agents for Optimization and Reasoning
+### 9 Summary and Future Work: Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
 #### 9.1 Summary: From the Perspective of Self-evolving Agent
 
