@@ -10,7 +10,7 @@
 
 #### 1.4 Bridging Combinatorial Optimization and Reasoning with Foundation Models 
 
-### Part II Foundation Models for Combinatorial Optimization
+### Part I Foundation Models for Combinatorial Optimization
 #### 2 Domain Foundation Models for COPs
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
