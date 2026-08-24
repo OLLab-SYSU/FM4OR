@@ -26,14 +26,14 @@
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
   
 ### Part II Foundation Models for Reasoning
-#### 5 Internal Strategic/Policy Control for Reasoning (LLM Reasoning)
+#### 6 Internal Strategic/Policy Control for Reasoning (LLM Reasoning)
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
 - Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided stepwise action planning for controllable LLM reasoning, ACL 2026 Findings.
 
-#### 6 External Knowledge Graph Augmentation for Reasoning (Neural-Symbolic Reasoning)
+#### 7 External Knowledge Graph Augmentation for Reasoning (Neural-Symbolic Reasoning)
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
 - Dynamic latent planning inside graph retrievers for knowledge graph question answering, COLING 2027.
@@ -42,19 +42,19 @@
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, AAAI 2027.
 
-#### 7 Memory-Augmented Reasoning (Agentic Reasoning)
+#### 8 Memory-Augmented Reasoning (Agentic Reasoning)
 - A LLM-based agent framework for knowledge graph question answering, COLING 2027.
 
 - LLM with graph memory for long-term memory question answering, COLING 2027.
 
-#### 8 Mutimodal Reasoning
+#### 9 Mutimodal Reasoning
 - UniGain: Unified text representation with modality gain for multimodal multi-hop question answering, AAAI 2027.
 
-### 9 Summary and Future Work: Towards Autonomous Intelligent Agents for Optimization and Reasoning
+### 10 Summary and Future Work: Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
-#### 9.1 Summary: From the Perspective of Self-evolving Agent
+#### 10.1 Summary: From the Perspective of Self-evolving Agent
 
-#### 9.2 Future Work: From Self-evolving Agents to Next-generation Agentic Intelligence
+#### 10.2 Future Work: From Self-evolving Agents to Next-generation Agentic Intelligence
 
 
 #### References
