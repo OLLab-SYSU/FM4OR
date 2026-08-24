@@ -11,29 +11,29 @@
 #### 1.4 Bridging Combinatorial Optimization and Reasoning with Foundation Models 
 
 ### Part I Foundation Models for Combinatorial Optimization
-#### 2 Domain Foundation Models for COPs
+### 2 Domain Foundation Models for COPs
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Combination-of-expert with knowledge sharing for cross-task vehicle routing problems, ICLR 2026.
 
-#### 3 LLM as Modeler for Problem Modeling
+### 3 LLM as Modeler for Problem Modeling
 - Yi Chen, Zikang Yu, Jiahai Wang*, et al., Reinforcement learning enhanced LLM agents for complex vehicle routing problems, PPSN 2026.
 
-#### 4 LLM as Designer for Heuristic Design and End-to-End Solution Reasoning
+### 4 LLM as Designer for Heuristic Design and End-to-End Solution Reasoning
 - Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM based combinatorial optimization, AAAI 2027.
 
-#### 5 LLM as Coordinators for Solving-workflow Organization
+### 5 LLM as Coordinators for Solving-workflow Organization
 - Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
   
 ### Part II Foundation Models for Reasoning
-#### 6 Internal Strategic/Policy Control for Reasoning (LLM Reasoning)
+### 6 Internal Strategic/Policy Control for Reasoning (LLM Reasoning)
 - Zhaoyang Wang, Shaohan Huang, Yuxuan Liu, Jiahai Wang*, et al., Democratizing reasoning ability: Tailored learning from large language model, EMNLP 2023.
 
 - Jianpeng Zhou, Wanjun Zhong, Yanlin Wang, Jiahai Wang*, Adaptive-solver framework for dynamic strategy selection in large language model reasoning, Information Processing and Management, vol.62, no.3, 104052, May 2025.
 
 - Jianpeng Zhou, Qisheng Hu, Jiahai Wang*, Wenya Wang*, Policy-guided stepwise action planning for controllable LLM reasoning, ACL 2026 Findings.
 
-#### 7 External Knowledge Graph Augmentation for Reasoning (Neural-Symbolic Reasoning)
+### 7 External Knowledge Graph Augmentation for Reasoning (Neural-Symbolic Reasoning)
 - Chenhui Liu, Jianpeng Zhou, Jiahai Wang*, Chain-of-relations: Faithful and efficient LLM reasoning over knowledge graphs via relation-centric exploration, ACL 2026 Findings.
 
 - Dynamic latent planning inside graph retrievers for knowledge graph question answering, COLING 2027.
@@ -42,12 +42,12 @@
 
 - Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, AAAI 2027.
 
-#### 8 Memory-Augmented Reasoning (Agentic Reasoning)
+### 8 Memory-Augmented Reasoning (Agentic Reasoning)
 - A LLM-based agent framework for knowledge graph question answering, COLING 2027.
 
 - LLM with graph memory for long-term memory question answering, COLING 2027.
 
-#### 9 Mutimodal Reasoning
+### 9 Mutimodal Reasoning
 - UniGain: Unified text representation with modality gain for multimodal multi-hop question answering, AAAI 2027.
 
 ### 10 Summary and Future Work: Towards Autonomous Intelligent Agents for Optimization and Reasoning
