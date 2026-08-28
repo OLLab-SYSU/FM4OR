@@ -20,10 +20,10 @@
 ### 4 LLM as Designer for Heuristic Design and End-to-End Solution Reasoning
 - Zhiyuan Chu, Zikang Yu, Jiahai Wang*, et al., PAEvo: Plan-algorithm evolution with LLMs for automatic heuristic design, PPSN 2026.
 
-- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Feasibility-aligned policy optimization for end-to-end LLM based combinatorial optimization, AAAI 2027.
+- AAAI 2027.
 
 ### 5 LLM as Coordinators for Solving-workflow Organization
-- Zikang Yu, Jinbiao Chen, Jiahai Wang*, Large language model-empowered co-evolutionary model merging for neural vehicle routing solvers, 2026.
+- AAAI 2027.
   
 ### Part II Foundation Models for Reasoning
 ### 6 Internal Strategic/Policy Control for Reasoning (LLM Reasoning)
@@ -40,7 +40,7 @@
 
 - DGT: Efficient and reliable knowledge graph question answering via discriminative graph traversal, WISE 2026.
 
-- Guide to verify: From graph-guided generation to external verification for multi-constraint multi-hop question generation, AAAI 2027.
+- AAAI 2027.
 
 ### 8 Memory-Augmented Reasoning (Agentic Reasoning)
 - A LLM-based agent framework for knowledge graph question answering, COLING 2027.
