@@ -48,7 +48,7 @@
 - LLM with graph memory for long-term memory question answering, COLING 2027.
 
 ### 9 Mutimodal Reasoning
-- UniGain: Unified text representation with modality gain for multimodal multi-hop question answering, AAAI 2027.
+- AAAI 2027.
 
 ### 10 Conclusions and Future Work: Towards Autonomous Intelligent Agents for Optimization and Reasoning
 
