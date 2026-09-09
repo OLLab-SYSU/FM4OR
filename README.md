@@ -57,6 +57,10 @@
 #### 10.2 Future Work: From Self-evolving Agents to Next-generation Agentic Intelligence
 
 
+### Resources: 
+- Foundation Models for Combinatorial Optimization [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) 
+- Foundation Models for Reasoning [FM4ReasonRes](https://github.com/OLLab-SYSU/FM4ReasonRes)
+
 #### References
 - Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
 
@@ -132,10 +136,6 @@
 - The landscape of agentic reinforcement learning for LLMs: A survey, Transactions on Machine Learning Research, 2026.
 
 
-
-#### Resources: 
-- Foundation Models for Combinatorial Optimization [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) 
-- Foundation Models for Reasoning [FM4ReasonRes](https://github.com/OLLab-SYSU/FM4ReasonRes)
 
 
 
