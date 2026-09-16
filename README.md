@@ -129,6 +129,8 @@
 ----------------------------------------------------------
 - From AGI to ASI, 2026.
 
+- The Last AI Built by Humans: Toward Genuine Recursive Self-Improvement, 2026.
+
 - A survey of self-evolving agents: what, when, how, and where to evolve on the path to artificial super intelligence, Transactions on Machine Learning Research, 2026.
 
 - Self-evolving AI agents: a survey of feedback-driven generation, evaluation, memory, and self-modification, 2026.
