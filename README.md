@@ -47,7 +47,7 @@
 
 - LLM with graph memory for long-term memory question answering, COLING 2027.
 
-### 9 Mutimodal Reasoning
+### 9 Multimodal Reasoning
 - AAAI 2027.
 
 ### 10 Conclusions and Future Work: Towards Autonomous Intelligent Agents for Optimization and Reasoning
