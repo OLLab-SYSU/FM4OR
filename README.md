@@ -72,7 +72,7 @@
 
 - Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
 
-- A survey on mathematical reasoning and optimization with large language models，2025.
+- A survey on mathematical reasoning and optimization with large language models，Intelligent Systems with Applications, 2026.
 
 - DeepOR: A deep reasoning foundation model for optimization modeling，AAAI 2026.
 
