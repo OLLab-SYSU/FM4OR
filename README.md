@@ -60,7 +60,7 @@
 ### Resources: 
 - Foundation Models for Combinatorial Optimization [ML4CORes](https://github.com/OLLab-SYSU/ML4CORes) 
 - Foundation Models for Reasoning [FM4ReasonRes](https://github.com/OLLab-SYSU/FM4ReasonRes)
-- Self-Evolving Agent [Agent](https://github.com/OLLab-SYSU/Agent/)
+- Foundation Agents for Optimization and Reasoning [Agent](https://github.com/OLLab-SYSU/Agent/)
 
 #### References
 - Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
