@@ -65,13 +65,9 @@
 #### References
 - Foundation models and intelligent decision-making: Progress, challenges, and perspectives, The Innovation 6(6): 100948, June 2, 2025.
 
-- Foundation agents as the paradigm shift for decision making, ICML 2024.
-
 - From question answering to task completion: A survey on agent system and harness design, 2026.
 
-- Externalization in LLM agents: A unified review of memory, skills, protocols and harness engineering, 2026.
-
-- Advances and challenges in foundation agents: From brain-inspired intelligence to evolutionary, collaborative, and safe systems, 2025.
+- Advances and challenges in foundation agents, 2025.
 
 - A survey on mathematical reasoning and optimization with large language models, Intelligent Systems with Applications, 2026.
 
@@ -80,6 +76,7 @@
 - Evaluating LLM reasoning in the operations research domain with ORQA, AAAI 2025.
 
 - Reasoning in a combinatorial and constrained world: Benchmarking LLMs on natural-language combinatorial optimization, ACL 2026 Findings.
+- ConstraintBench: Benchmarking LLM constraint reasoning on direct optimization, 2026.
 
 - G1: Teaching LLMs to reason on graphs with reinforcement learning, NeurIPS 2025.
 
